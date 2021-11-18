@@ -3,15 +3,15 @@ import Post from './Post'
 
 const a = [
     {
-        id:"123",
-        userName:"ragy",
+        id:"1",
+        userName:"ST",
         userImg:"https://www.btvbharat.in/wp-content/uploads/2021/11/shahrukh-khan-scaled.jpg",
         img:"https://www.btvbharat.in/wp-content/uploads/2021/11/shahrukh-khan-scaled.jpg",
         caption:"didiidid"
     },
     {
-        id:"124",
-        userName:"ragy",
+        id:"2",
+        userName:"RT",
         userImg:"https://www.btvbharat.in/wp-content/uploads/2021/11/shahrukh-khan-scaled.jpg",
         img:"https://www.btvbharat.in/wp-content/uploads/2021/11/shahrukh-khan-scaled.jpg",
         caption:"didiidid"
